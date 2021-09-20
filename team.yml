@@ -721,7 +721,7 @@ members:
     status: active
   - name: Suin Lee
     github: 
-      username: SuinLee
+      username: suinnnlee
       role: member
     mailgun:
       email: suinlee@bu.edu
